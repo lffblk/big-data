@@ -1,0 +1,3 @@
+rootProject.name = 'big-data'
+include 'hadoop-words-count'
+
